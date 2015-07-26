@@ -30,3 +30,10 @@ There are several solution files (.sln) you can use to build .NET Bio on Windows
 
 ## History of the project
 The original home for the project was [bio.codeplex.com](http://bio.codeplex.com) - we decided not to carry over the history prior to version 2.0 of the project, but you can still go to the older (deprecated) site and get the original source code if necessary.
+
+## Additional Information
+
+- [FAQ](https://github.com/dotnetbio/bio/blob/master/FAQ.md)
+- [Testing](https://github.com/dotnetbio/bio/blob/master/TESTING.md)
+
+
