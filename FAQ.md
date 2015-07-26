@@ -10,6 +10,19 @@ _Optional Components (required to build some of the additional tools)_
 - [Microsoft HPC Pack 2008 R2 Client Utilities Redistributable Package with Service Pack 1](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=0a7ba619-fe0e-4e71-82c8-ab4f19c149ad)
 - [Microsoft HPC Pack 2008 R2 SDK](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=BC671B22-F158-4A5F-828B-7A374B881172)
 
+** What platforms are supported? **
+
+.NET Bio 2.0 is entirely cross platform, and can be run on Linux, Mac, Windows and a variety of smartphones and tablets. In particular, it supports the following platforms:
+
+- .NET 4.5 or better
+- Mono 4.5 or better
+- Windows 8 or 8.1 WinRT (w/ .NET 4.5)
+- Windows Phone 8.1 WinPRT (w / .NET 4.5)
+- Xamarin.iOS
+- Xamarin.Android
+
+We currently do not support Silverlight, although it is possible it could be added in the future. You can use Visual Studio 2013 or 2015 with .NET Bio, MonoDevelop on Linux or Mac OSX, or Xamarin Studio on Windows or OS X.
+
 **I found a bug - how do I report it?**
 
 - Click the [Issues](https://github.com/dotnetbio/bio/issues) link.
